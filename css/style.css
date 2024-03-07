@@ -1,0 +1,22 @@
+body{
+    background-color: orange;
+}
+
+.justify-content-center button{
+    color: orange;
+    font-weight: 700;
+}
+
+.form-label{
+    color: orange;
+}
+
+.form-control{
+    border: 1px solid orange;
+}
+
+h2{
+    text-transform: uppercase;
+    color: white;
+    margin: 30px;
+}
